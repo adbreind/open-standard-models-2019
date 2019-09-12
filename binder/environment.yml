@@ -1,0 +1,21 @@
+name: open-standard-models
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - numpy
+  - pip
+  - pandas
+  - pyarrow
+  - python-graphviz
+  - seaborn
+  - scikit-learn
+  - matplotlib
+  - nomkl
+  - h5py
+  - requests
+  - pytables
+  - pip:
+    - mimesis
+  
