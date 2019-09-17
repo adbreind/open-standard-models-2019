@@ -20,3 +20,5 @@ dependencies:
     - SKompiler[full]
     - nyoka
     - pyyaml
+    - onnxmltools
+    - onnxruntime
